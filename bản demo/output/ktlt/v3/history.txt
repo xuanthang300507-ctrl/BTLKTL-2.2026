@@ -1,0 +1,22 @@
+[IN ] ABC123 -> P1
+[IN ] XYZ789 -> P3
+[IN ] DEF456 -> P5
+[OUT] ABC123 <- P1
+[IN ] GHI234 -> P1
+[IN ] JKL567 -> P7
+[OUT] XYZ789 <- P3
+[IN ] MNO890 -> P3
+[IN ] PQR321 -> P2
+[IN ] STU654 -> P4
+[OUT] DEF456 <- P5
+[IN ] VWX987 -> P5
+[IN ] YZA135 -> P6
+[OUT] JKL567 <- P7
+[IN ] BCD468 -> P7
+[IN ] EFG791 -> P8
+[IN ] HIJ024 -> P9
+[IN ] KLM357 -> P10
+[OUT] MNO890 <- P3
+[IN ] NOP680 -> P3
+[IN ] ab200 -> P16
+[IN ] AC276 -> P17
